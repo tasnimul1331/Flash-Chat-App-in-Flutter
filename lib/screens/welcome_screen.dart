@@ -28,8 +28,12 @@ class _WelcomeScreenState extends State<WelcomeScreen>
       duration: Duration(seconds: 2),
       vsync: this,
     );
+    // animation = ColorTween(
+    //   begin: Colors.blueGrey,
+    //   end: Colors.white,
+    // ).animate(controller);
     animation = ColorTween(
-      begin: Colors.blueGrey,
+      begin: Colors.grey,
       end: Colors.white,
     ).animate(controller);
 
@@ -62,7 +66,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 Hero(
                   tag: 'logo',
                   child: SizedBox(
-                    height: 60.0,
+                    height: 100.0,
                     child: Image.asset('images/logo.png'),
                   ),
                 ),
