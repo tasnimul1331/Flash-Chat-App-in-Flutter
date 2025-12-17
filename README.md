@@ -23,17 +23,17 @@ This project provides a minimal chat application where users can register, log i
 
 > NOTE: The repository includes image placeholders below. Copy the four screenshots you provided into the folder `images/screenshots/` and name them exactly as shown so that Markdown will render them in this README.
 
-- `images/screenshots/screenshot_1.png` - Welcome / Home screen (buttons)
-- `images/screenshots/screenshot_2.png` - Registration screen with inputs
-- `images/screenshots/screenshot_3.png` - Login/keyboard view
-- `images/screenshots/screenshot_4.png` - Chat screen (messages)
+- `images/preview1.png` - Welcome / Home screen (buttons)
+- `images/preview2.png` - Registration screen with inputs
+- `images/preview3.png` - Login/keyboard view
+- `images/preview4.png` - Chat screen (messages)
 
 Once you add the images, they will appear here:
 
-![Welcome Screen](images/screenshots/screenshot_1.png)
-![Register Screen](images/screenshots/screenshot_2.png)
-![Login Screen](images/screenshots/screenshot_3.png)
-![Chat Screen](images/screenshots/screenshot_4.png)
+![Welcome Screen](images/preview1.png)
+![Register Screen](images/preview2.png)
+![Login Screen](images/preview3.png)
+![Chat Screen](images/preview4.png)
 
 ## Features
 
@@ -76,10 +76,10 @@ flutter pub get
 Place the four screenshot image files into `images/screenshots/` and name them:
 
 ```
-images/screenshots/screenshot_1.png
-images/screenshots/screenshot_2.png
-images/screenshots/screenshot_3.png
-images/screenshots/screenshot_4.png
+images/preview1.png
+images/preview2.png
+images/preview3.png
+images/preview4.png
 ```
 
 4. Configure Firebase (see below)
