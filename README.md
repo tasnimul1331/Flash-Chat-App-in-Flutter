@@ -33,19 +33,19 @@ Once you add the images, they will appear here:
 <table>
   <tr>
     <td align="center">
-      <img src="./images/preview1.png" width="200" /><br/>
+      <img src="./images/preview1.jpg" width="200" /><br/>
       <b>Welcome Screen</b>
     </td>
     <td align="center">
-      <img src="./images/preview2.png" width="200" /><br/>
+      <img src="./images/preview2.jpg" width="200" /><br/>
       <b>Register Screen</b>
     </td>
     <td align="center">
-      <img src="./images/preview3.png" width="200" /><br/>
+      <img src="./images/preview3.jpg" width="200" /><br/>
       <b>Login Screen</b>
     </td>
     <td align="center">
-      <img src="./images/preview4.png" width="200" /><br/>
+      <img src="./images/preview4.jpg" width="200" /><br/>
       <b>Chat Screen</b>
     </td>
   </tr>
