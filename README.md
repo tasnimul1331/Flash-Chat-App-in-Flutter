@@ -30,10 +30,10 @@ This project provides a minimal chat application where users can register, log i
 
 Once you add the images, they will appear here:
 
-![Welcome Screen](images/preview1.png)
-![Register Screen](images/preview2.png)
-![Login Screen](images/preview3.png)
-![Chat Screen](images/preview4.png)
+![Welcome Screen](./images/preview1.png)
+![Register Screen](./images/preview2.png)
+![Login Screen](./images/preview3.png)
+![Chat Screen](./images/preview4.png)
 
 ## Features
 
