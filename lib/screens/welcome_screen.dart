@@ -70,20 +70,23 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     child: Image.asset('images/logo.png'),
                   ),
                 ),
-                AnimatedTextKit(
-                  animatedTexts: [
-                    TypewriterAnimatedText(
-                      'Flash Chat',
-                      textStyle: Theme.of(context).textTheme.bodyLarge!
-                          .copyWith(
-                            fontSize: 45.0,
-                            fontWeight: FontWeight.w900,
-                          ),
-                      speed: Duration(milliseconds: 200),
-                    ),
-                  ],
-                  totalRepeatCount: 1, // optional
-                  pause: Duration(milliseconds: 500),
+                Padding(
+                  padding: const EdgeInsets.only(right: 8.0),
+                  child: AnimatedTextKit(
+                    animatedTexts: [
+                      TypewriterAnimatedText(
+                        'Flash Chat',
+                        textStyle: Theme.of(context).textTheme.bodyLarge!
+                            .copyWith(
+                              fontSize: 34.0,
+                              fontWeight: FontWeight.w900,
+                            ),
+                        speed: Duration(milliseconds: 200),
+                      ),
+                    ],
+                    totalRepeatCount: 1, // optional
+                    pause: Duration(milliseconds: 500),
+                  ),
                 ),
               ],
             ),
